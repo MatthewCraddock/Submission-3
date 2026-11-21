@@ -3,6 +3,8 @@ Elite Hunter v1 -> 4.23
 
 Elite Hunter v2 - > 3.65
 
+Elite Hunter v3 -> 3.52
+
 Dual-mode Mech Royale bot (pure Python, standard library only).
 
 - `elite_hunter_v1.py`: the bot. Squad mode (practice: the others hunt us) and free-for-all mode (the others fight each other); it switches when mechs die before the zone shrinks without our kill.
