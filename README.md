@@ -1,7 +1,7 @@
 # Elite Hunter v1
 Elite Hunter v1 -> 4.23
 
-Elite Hunter v2 - > 
+Elite Hunter v2 - > 3.65
 
 Dual-mode Mech Royale bot (pure Python, standard library only).
 
